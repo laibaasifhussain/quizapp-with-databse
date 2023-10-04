@@ -1,0 +1,50 @@
+.background {
+    background-color: #2196F3; /* Blue background color */
+    color: #fff; /* White text color */
+    height: 100vh; /* Make the background cover the entire viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .innerdiv {
+    background-color: #ffffff; /* White background color */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .headingclass {
+    color: #2196F3; /* Blue heading color */
+    text-align: center;
+  }
+  .textblack{
+    color: black;
+  }
+  .py-5 {
+    padding: 50px;
+  }
+  
+  /* Customize input and button styles as needed */
+  .BAinput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  .Signupbutton {
+    background-color: #86beed; 
+    color: #fff; 
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .Signupbutton:hover {
+    background-color: #72abe3; 
+  }
+  
